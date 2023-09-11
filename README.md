@@ -4,7 +4,7 @@
 **kusumkumari/kusumkumari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Kusum Kumari](www.linkedin.com/in/kusum-kumari-507b25a0/),  Software Developer at Orangebits Technology.
+I am [Kusum Kumari](https://www.linkedin.com/in/kusum-kumari-507b25a0/),  Software Developer at Orangebits Technology.
 
 I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 
@@ -48,6 +48,6 @@ I mostly work with Python, MVC Frameworks and Cloud based technologies. 🚀
 ### 📫 How to reach me?
 
 
- - Connect with me on [LinkedIn](www.linkedin.com/in/kusum-kumari-507b25a0/) 👨🏻‍💻
+ - Connect with me on [LinkedIn](https://www.linkedin.com/in/kusum-kumari-507b25a0/) 👨🏻‍💻
 
  - Shoot Me an [Email](mailto:kusumk2992@gmail.com) 💌
